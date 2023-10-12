@@ -11,6 +11,7 @@ khám,… Ứng dụng được thiết kế trên nền tảng Android và có 
 android từ 6.0 trở lên.
 # Các thành viên
 Văn Hùng
+
 Thanh Sỹ
 Thành Danh
 Văn Thiện
